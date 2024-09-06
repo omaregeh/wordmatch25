@@ -1,0 +1,22 @@
+[
+    { "english": "cat", "french": "chat" },
+    { "english": "dog", "french": "chien" },
+    { "english": "bird", "french": "oiseau" },
+    { "english": "horse", "french": "cheval" },
+    { "english": "fish", "french": "poisson" },
+    { "english": "mouse", "french": "souris" },
+    { "english": "to eat", "french": "manger" },
+    { "english": "to drink", "french": "boire" },
+    { "english": "to sleep", "french": "dormir" },
+    { "english": "to run", "french": "courir" },
+    { "english": "to walk", "french": "marcher" },
+    { "english": "apple", "french": "pomme" },
+    { "english": "orange", "french": "orange" },
+    { "english": "banana", "french": "banane" },
+    { "english": "grape", "french": "raisin" },
+    { "english": "pear", "french": "poire" },
+    { "english": "to go", "french": "aller" },
+    { "english": "to do", "french": "faire" },
+    { "english": "to say", "french": "dire" },
+    { "english": "to think", "french": "penser" }
+]
